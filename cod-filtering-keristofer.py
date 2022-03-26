@@ -1,4 +1,4 @@
-print("Ａ Ｍ Ｉ Ｒ")
+print("arman")
 print(" **keristofer** ")
 print("  pedar filtering  ")
 import os
